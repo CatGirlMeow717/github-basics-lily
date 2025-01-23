@@ -1,6 +1,6 @@
 # github-basics-lily
 
-The purpose of this repository is to learn github
+The purpose of this repository is to learn github, made by lily
 
 What is the primary difference between Git and GitHub? Explain the relationship between the two and how they complement each other.
 Git is something installed on the computer, github allows you to easier manage all the different files in a repository. 
